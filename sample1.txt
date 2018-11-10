@@ -1,1 +1,8 @@
 echo "This is simple shell script"
+wfewfw
+f
+f
+fw
+fw
+f
+ew
